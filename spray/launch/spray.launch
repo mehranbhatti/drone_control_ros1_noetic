@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<launch>
+
+        <!-- Spray Control Node -->
+        <node name="Spray_Control" pkg="spray" type="gps_spray_rot.py" output="screen" />
+
+</launch>
